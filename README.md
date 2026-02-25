@@ -36,3 +36,17 @@
 | *Osmunda regalis*                                                                    | *Pteris ensiformis*                                                                  | *Platycerium bifurcatum*                                                             | *Pteris vittata*                                                                     |
 | ![](https://github.com/user-attachments/assets/54b19f2c-b66c-468d-bac3-73757d854bb3) | ![](https://github.com/user-attachments/assets/14e44a02-e37b-4318-bcfa-ab0f5af71391) | ![](https://github.com/user-attachments/assets/7e2cc29f-80ea-4558-b81b-1d86130fcae9) | ![](https://github.com/user-attachments/assets/ac576a43-e03a-44b0-8cd8-cd89e5a065d8) |
 | Large elegant fern for wet habitats.                                                 | Variegated green and silver fronds.                                                  | Antler-shaped epiphytic fern.                                                        | Hardy tropical fern tolerant of many soils.                                          |
+
+---
+
+## ⚙️ Model Training Details
+
+The model was trained using **Teachable Machine** with the following hyperparameters:
+
+| Parameter | Value |
+|-----------|-------|
+| **Epochs** | 100 |
+| **Batch Size** | 16 |
+| **Learning Rate** | 0.001 |
+| **Images per Class** | Minimum 250 |
+| **Total Classes** | 20 |
