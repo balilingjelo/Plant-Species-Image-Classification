@@ -106,5 +106,31 @@ The model was trained using **Teachable Machine** with the following hyperparame
 
 </div>
 
+##  Reflection & Analysis <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d4e4523c-b64f-41c1-b656-76ef24e299fe" />
+
+
+### 1. How did the number of images per class affect your model’s accuracy?
+
+> The number of images per class had a big impact on the model’s accuracy. Having about 250 images for each plant species helped the model learn better because it was able to recognize different features such as leaf shape, color, and texture under different conditions. Keeping the dataset balanced also helped reduce bias and improved both overall and per-class accuracy. On the other hand, if there were only a few images in a class, the model was more likely to make incorrect predictions and become less reliable.
+
+### 2. Which plant species were most commonly misclassified and why?
+
+> The plant species that were most commonly misclassified were Maidenhair Fern, Braken Fern, Lady Fern, Ostrich Fern, and Boston Fern. These plants were often confused with each other because they have very similar appearances, especially in their leaf structure and green, feathery fronds. Since ferns share common visual characteristics, the model sometimes had difficulty distinguishing between them, particularly when the training images had similar angles, lighting, or backgrounds. Adding more diverse and unique images for each of these fern species could help improve the model’s classification accuracy.
+### 3. How did changing the epochs, batch size, or learning rate affect the training results?
+
+> Running 100 epochs with a batch size of 16 and a 0.001 learning rate likely caused overfitting — the model memorized the training data instead of learning patterns, which explains the perfect accuracy scores but poor performance in the confusion matrix.
+
+### 4. What challenges did you encounter during dataset collection and labeling?
+
+> The challenges I encountered were:
+> - Plants looking too similar (like Elena and Lime Zinger)
+> - Inconsistent photo quality from webcam uploads
+> - Uneven sample sizes across classes
+
+### 5. If you were to improve your model, what specific changes would you make and why?
+
+> If I were to improve my model, I would start by **improving the images** — balancing the number of samples per class and ensuring consistent lighting, angles, and backgrounds. Better quality and variety would help the model learn actual features instead of memorizing and overfitting.
+
 ---
+
 
