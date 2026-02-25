@@ -116,21 +116,18 @@ The model was trained using **Teachable Machine** with the following hyperparame
 ### 2. Which plant species were most commonly misclassified and why?
 
 > The plant species that were most commonly misclassified were Maidenhair Fern, Braken Fern, Lady Fern, Ostrich Fern, and Boston Fern. These plants were often confused with each other because they have very similar appearances, especially in their leaf structure and green, feathery fronds. Since ferns share common visual characteristics, the model sometimes had difficulty distinguishing between them, particularly when the training images had similar angles, lighting, or backgrounds. Adding more diverse and unique images for each of these fern species could help improve the model’s classification accuracy.
+
 ### 3. How did changing the epochs, batch size, or learning rate affect the training results?
 
-> Running 100 epochs with a batch size of 16 and a 0.001 learning rate likely caused overfitting — the model memorized the training data instead of learning patterns, which explains the perfect accuracy scores but poor performance in the confusion matrix.
+> Changing the training parameters helped improve how the model learned from the dataset. Using 100 epochs allowed the model to learn more patterns from the plant images, which helped improve accuracy but also required more training time. A batch size of 16 made the training more stable because the model updated more frequently, while the learning rate of 0.001 helped the model learn gradually without causing large or unstable changes during training. Overall, these settings helped achieve a good balance between accuracy and training performance.
 
 ### 4. What challenges did you encounter during dataset collection and labeling?
 
-> The challenges I encountered were:
-> - Plants looking too similar (like Elena and Lime Zinger)
-> - Inconsistent photo quality from webcam uploads
-> - Uneven sample sizes across classes
+The main challenges I encountered during dataset collection and labeling were finding plant species that looked very similar, which sometimes made classification difficult. I also experienced inconsistent image quality from webcam or uploaded uploads, which affected the clarity of the dataset. Additionally, keeping an equal number of images for each plant class was challenging and required careful checking to maintain a balanced dataset.
 
 ### 5. If you were to improve your model, what specific changes would you make and why?
 
-> If I were to improve my model, I would start by **improving the images** — balancing the number of samples per class and ensuring consistent lighting, angles, and backgrounds. Better quality and variety would help the model learn actual features instead of memorizing and overfitting.
-
+>If I were to improve my model, I would add more high-quality and varied images for each plant species so the model can learn better. I would adjust the training parameters or try a more advanced model to improve accuracy, especially for plant species that look very similar.
 ---
 
 
