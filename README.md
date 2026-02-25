@@ -59,7 +59,7 @@ The model was trained using **Teachable Machine** with the following hyperparame
 *Visual representation of model predictions vs. actual classes*
 
 <div align="center">
-  <img src="Model_Evaluation/confusion_matrix.png" width="600" alt="Confusion Matrix">
+  <img src="Model_Evaluation/Accuracy per class.png" width="600" alt="Confusion Matrix">
   <p><i>Figure 1: Confusion matrix showing classification results across all 20 classes</i></p>
 </div>
 
