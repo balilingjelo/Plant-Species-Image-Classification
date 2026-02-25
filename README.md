@@ -94,11 +94,11 @@ The model was trained using **Teachable Machine** with the following hyperparame
   
 | Test Image | Prediction | Test Image | Prediction |
 |:----------:|:----------:|:----------:|:----------:|
-| <img src="Model_Testing/BirdNest Fern.png" width="200" alt="BirdNest Fern Test"> | **Black Magic** | <img src="Model_Testing/Japanese Painted Fern.png" width="200" alt="Japanese Painted Fern Test"> | **Black Coral** |
-| <img src="Model_Testing/Boston Fern.png" width="200" alt="Boston Fern Test"> | **Green Velvet** | <img src="Model_Testing/Lady Fern.jpg" width="200" alt="Lady Fern Test"> | **Hilo Beauty** |
-| <img src="Model_Testing/Button Fern.jpg" width="200" alt="Button Fern Test"> | **Illustris** | <img src="Model_Testing/Ostrich Fern.png" width="200" alt="Ostrich Fern Test"> | **Metallica** |
-| <img src="Model_Testing/Cinnamon Fern.jpg" width="200" alt="Cinnamon Fern Test"> | **Mojito** | <img src="Model_Testing/Silver Lace Fern.jpg" width="200" alt="Silver Lace Fern Test"> | **Nancy's Revenge** |
-| <img src="Model_Testing/Foxtail Fern.jpg" width="200" alt="Foxtail Fern Test"> | **Redemption** | <img src="Model_Testing/Staghorn Fern.png" width="200" alt="Staghorn Fern Test"> | **White Lava** |
+| <img src="Model_Testing/BirdNest Fern.png" width="200" alt="BirdNest Fern Test"> | **BirdNest Fernc** | <img src="Model_Testing/Japanese Painted Fern.png" width="200" alt="Japanese Painted Fern Test"> | **Japanese Painted Fern** |
+| <img src="Model_Testing/Boston Fern.png" width="200" alt="Boston Fern Test"> | **Boston Fern** | <img src="Model_Testing/Lady Fern.jpg" width="200" alt="Lady Fern Test"> | **Lady Fern** |
+| <img src="Model_Testing/Button Fern.jpg" width="200" alt="Button Fern Test"> | **Button Fern** | <img src="Model_Testing/Ostrich Fern.png" width="200" alt="Ostrich Fern Test"> | **Ostrich Fern** |
+| <img src="Model_Testing/Cinnamon Fern.jpg" width="200" alt="Cinnamon Fern Test"> | **Cinnamon Fern** | <img src="Model_Testing/Silver Lace Fern.jpg" width="200" alt="Silver Lace Fern Test"> | **Silver Lace Fern** |
+| <img src="Model_Testing/Foxtail Fern.jpg" width="200" alt="Foxtail Fern Test"> | **Foxtail Fern** | <img src="Model_Testing/Staghorn Fern.png" width="200" alt="Staghorn Fern Test"> | **Staghorn Fern** |
 
 </div>
 
