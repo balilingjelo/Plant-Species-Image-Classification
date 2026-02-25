@@ -90,7 +90,8 @@ The model was trained using **Teachable Machine** with the following hyperparame
 
 ---
 
-## 🧪 Model Testing
+##  Model Testing <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/14fe8799-dffb-49da-acd7-4c9824d2a77b" />
+
 
 *Real-world predictions on unseen images*
 
