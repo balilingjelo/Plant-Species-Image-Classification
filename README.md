@@ -94,7 +94,7 @@ The model was trained using **Teachable Machine** with the following hyperparame
   
 | Test Image | Prediction | Test Image | Prediction |
 |:----------:|:----------:|:----------:|:----------:|
-| <img src="Model_Testing/BirdNest Fern.png" width="200" alt="BirdNest Fern Test"> | **Black Magic** | <img src="Model_testing/Black_Coral.png" width="200" alt="Black Coral Test"> | **Black Coral** |
+| <img src="Model_Testing/BirdNest Fern.png" width="200" alt="BirdNest Fern Test"> | **Black Magic** | <img src="Model_Testing/Japanese Painted Fern.png" width="200" alt="Japanese Painted Fern Test"> | **Black Coral** |
 | <img src="Model_Testing/Boston Fern.png" width="200" alt="Boston Fern Test"> | **Green Velvet** | <img src="Model_testing/Hilo_Beauty.png" width="200" alt="Hilo Beauty Test"> | **Hilo Beauty** |
 | <img src="Model_Testing/Button Fern.jpg" width="200" alt="Button Fern Test"> | **Illustris** | <img src="Model_testing/Metallica.png" width="200" alt="Metallica Test"> | **Metallica** |
 | <img src="Model_Testing/Cinnamon Fern.jpg" width="200" alt="Cinnamon Fern Test"> | **Mojito** | <img src="Model_testing/Nancy's Revenge.png" width="200" alt="Nancy's Revenge Test"> | **Nancy's Revenge** |
