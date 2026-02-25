@@ -2,7 +2,8 @@
 
 | #  | Representative Image      | Common Name           | Scientific Name             | Description                                                                                           |
 | -- | ------------------------- | --------------------- | --------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 1  | Asplenium australasicum   | Australian Fern       | *Asplenium australasicum*   | A large epiphytic fern native to Australia with broad, bright green fronds forming a rosette shape.   |
+| 1  | Asplenium australasicum   | Australian Fern       | *Asplenium australasicum*   | A large epiphytic fern native to Australia with broad, bright green fronds forming a rosette sha|
+
 | 2  | Asplenium nidus           | Bird’s Nest Fern      | *Asplenium nidus*           | Tropical fern with wide, wavy fronds arranged in a nest-like rosette; commonly grown as a houseplant. |
 | 3  | Nephrolepis exaltata      | Boston Fern           | *Nephrolepis exaltata*      | Popular ornamental fern with long, arching fronds and small leaflets; thrives in humid environments.  |
 | 4  | Pteridium aquilinum       | Bracken Fern          | *Pteridium aquilinum*       | Hardy, fast-spreading fern found worldwide; triangular fronds and grows in open fields and forests.   |
