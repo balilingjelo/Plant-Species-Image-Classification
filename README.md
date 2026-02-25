@@ -59,7 +59,7 @@ The model was trained using **Teachable Machine** with the following hyperparame
 *Visual representation of model predictions vs. actual classes*
 
 <div align="center">
-  <img src="Model_Evaluation/Accuracy per class.png" width="600" alt="Confusion Matrix">
+  <img src="" width="600" alt="Confusion Matrix">
   <p><i>Figure 1: Confusion matrix showing classification results across all 20 classes</i></p>
 </div>
 
@@ -69,7 +69,7 @@ The model was trained using **Teachable Machine** with the following hyperparame
 *Individual class performance metrics*
 
 <div align="center">
-  <img src="Model_Evaluation/accuracy_per_class.png" width="600" alt="Accuracy per Class">
+  <img src="Model_Evaluation/Accuracy per class.png" width="600" alt="Accuracy per Class">
   <p><i>Figure 2: Bar chart displaying accuracy for each Elephant Ear variety</i></p>
 </div>
 
