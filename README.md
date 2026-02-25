@@ -78,7 +78,7 @@ The model was trained using **Teachable Machine** with the following hyperparame
 ### Overall Model Accuracy
 
 <div align="center">
-  <img src="Model_Evaluation/overall_model_accuracy.png" width="400" alt="Overall Model Accuracy">
+  <img src="Model_Evaluation/Overall accuracy.png" width="400" alt="Overall Model Accuracy">
   
   <h2>⭐ 100% Training Accuracy ⭐</h2>
   <p><i>Note: Perfect training accuracy suggests potential overfitting (see reflection section)</i></p>
