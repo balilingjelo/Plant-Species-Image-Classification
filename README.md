@@ -2,6 +2,11 @@
 
 
 ## Fern Varieties Gallery🌿
+
+<div align="center">
+  <i>Click on any image to enlarge • 20 unique varieties showcased</i>
+</div>
+
 | 1. Australian Fern                                                                   | 2. Bird’s Nest Fern                                                                  | 3. Boston Fern                                                                       | 4. Bracken Fern                                                                      |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | *Asplenium australasicum*                                                            | *Asplenium nidus*                                                                    | *Nephrolepis exaltata*                                                               | *Pteridium aquilinum*                                                                |
