@@ -2,8 +2,8 @@
 
 | #  | Representative Image      | Common Name           | Scientific Name             | Description                                                                                           |
 | -- | ------------------------- | --------------------- | --------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 1  |![Australian Tree Fern](https://github.com/user-attachments/assets/e97f5ac4-042c-40e9-a4af-32fca064e02c) | Australian Fern       | *Asplenium australasicum*   | A large epiphytic fern native to Australia with broad, bright green fronds forming a rosette shape.   |
-| 2  | Asplenium nidus           | Bird’s Nest Fern      | *Asplenium nidus*           | Tropical fern with wide, wavy fronds arranged in a nest-like rosette; commonly grown as a houseplant. |
+| 1  |![Australian Tree Fern](https://github.com/user-attachments/assets/e97f5ac4-042c-40e9-a4af-32fca064e02c)| Australian Fern       | *Asplenium australasicum*   | A large epiphytic fern native to Australia with broad, bright green fronds forming a rosette shape.   |
+| 2  |![Birds Nest Fern](https://github.com/user-attachments/assets/8ceccbbe-a28d-4127-8803-2ea0d6a4ce52)| Bird’s Nest Fern      | *Asplenium nidus*           | Tropical fern with wide, wavy fronds arranged in a nest-like rosette; commonly grown as a houseplant. |
 | 3  | Nephrolepis exaltata      | Boston Fern           | *Nephrolepis exaltata*      | Popular ornamental fern with long, arching fronds and small leaflets; thrives in humid environments.  |
 | 4  | Pteridium aquilinum       | Bracken Fern          | *Pteridium aquilinum*       | Hardy, fast-spreading fern found worldwide; triangular fronds and grows in open fields and forests.   |
 | 5  | Pellaea rotundifolia      | Button Fern           | *Pellaea rotundifolia*      | Small fern with round, dark green leaflets; commonly used as an indoor ornamental plant.              |
