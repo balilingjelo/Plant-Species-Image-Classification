@@ -2,7 +2,7 @@
 
 | #  | Representative Image      | Common Name           | Scientific Name             | Description                                                                                           |
 | -- | ------------------------- | --------------------- | --------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 1  |![Australian Tree Fern](https://github.com/user-attachments/assets/e97f5ac4-042c-40e9-a4af-32fca064e02c)| Australian Fern       | *Asplenium australasicum*   | A large epiphytic fern native to Australia with broad, bright green fronds forming a rosette shape.   |
+| 1  |![Australian Tree Fern](https://github.com/user-attachments/assets/822ceb4e-f096-4c9c-a5ee-ea2fd81b7eb2)| Australian Fern       | *Asplenium australasicum*   | A large epiphytic fern native to Australia with broad, bright green fronds forming a rosette shape.   |
 | 2  |![Birds Nest Fern](https://github.com/user-attachments/assets/8ceccbbe-a28d-4127-8803-2ea0d6a4ce52)| Bird’s Nest Fern      | *Asplenium nidus*           | Tropical fern with wide, wavy fronds arranged in a nest-like rosette; commonly grown as a houseplant. |
 | 3  |![Boston Fern](https://github.com/user-attachments/assets/d07eb032-9931-49ff-8970-a8bf2bcff807)| Boston Fern           | *Nephrolepis exaltata*      | Popular ornamental fern with long, arching fronds and small leaflets; thrives in humid environments.  |
 | 4  |![Braken Fern](https://github.com/user-attachments/assets/ab964e36-ef5b-433d-a9c8-3887b9c9edfb)| Bracken Fern          | *Pteridium aquilinum*       | Hardy, fast-spreading fern found worldwide; triangular fronds and grows in open fields and forests.   |
