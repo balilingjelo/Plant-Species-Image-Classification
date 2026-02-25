@@ -54,7 +54,7 @@ The model was trained using **Teachable Machine** with the following hyperparame
 
 ---
 
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7b037469-c5ac-4e44-bfc9-fe197b5dcda2" /> Model Evaluation
+## <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/7b037469-c5ac-4e44-bfc9-fe197b5dcda2" /> Model Evaluation
 
 ### Confusion Matrix
 *Visual representation of model predictions vs. actual classes*
