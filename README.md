@@ -50,3 +50,38 @@ The model was trained using **Teachable Machine** with the following hyperparame
 | **Learning Rate** | 0.001 |
 | **Images per Class** | Minimum 250 |
 | **Total Classes** | 20 |
+
+---
+
+## 📊 Model Evaluation
+
+### Confusion Matrix
+*Visual representation of model predictions vs. actual classes*
+
+<div align="center">
+  <img src="Model_Evaluation/confusion_matrix.png" width="600" alt="Confusion Matrix">
+  <p><i>Figure 1: Confusion matrix showing classification results across all 20 classes</i></p>
+</div>
+
+---
+
+### Accuracy per Class
+*Individual class performance metrics*
+
+<div align="center">
+  <img src="Model_Evaluation/accuracy_per_class.png" width="600" alt="Accuracy per Class">
+  <p><i>Figure 2: Bar chart displaying accuracy for each Elephant Ear variety</i></p>
+</div>
+
+---
+
+### Overall Model Accuracy
+
+<div align="center">
+  <img src="Model_Evaluation/overall_model_accuracy.png" width="400" alt="Overall Model Accuracy">
+  
+  <h2>⭐ 100% Training Accuracy ⭐</h2>
+  <p><i>Note: Perfect training accuracy suggests potential overfitting (see reflection section)</i></p>
+</div>
+
+---
