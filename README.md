@@ -3,7 +3,7 @@
 
 🌿 Fern Varieties
 | 1. Australian Fern                                                                   | 2. Bird’s Nest Fern                                                                  | 3. Boston Fern                                                                       | 4. Bracken Fern                                                                      |
-
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | *Asplenium australasicum*                                                            | *Asplenium nidus*                                                                    | *Nephrolepis exaltata*                                                               | *Pteridium aquilinum*                                                                |
 | ![](https://github.com/user-attachments/assets/822ceb4e-f096-4c9c-a5ee-ea2fd81b7eb2) | ![](https://github.com/user-attachments/assets/8ceccbbe-a28d-4127-8803-2ea0d6a4ce52) | ![](https://github.com/user-attachments/assets/d07eb032-9931-49ff-8970-a8bf2bcff807) | ![](https://github.com/user-attachments/assets/ab964e36-ef5b-433d-a9c8-3887b9c9edfb) |
 | Large epiphytic fern with bright green rosette fronds.                               | Tropical fern with wide nest-like fronds.                                            | Popular ornamental fern with arching fronds.                                         | Hardy, fast-spreading fern with triangular fronds.                                   |
