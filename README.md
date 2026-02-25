@@ -1,7 +1,8 @@
 # Plant Species Image Classification🌿
 
 
-## Fern Varieties Gallery🌿
+## Fern Varieties Gallery<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6d3089c0-fa2c-4ec7-841b-b57d7aee4feb" />
+
 
 <div align="center">
   <i>Click on any image to enlarge • 20 unique varieties showcased</i>
@@ -79,10 +80,6 @@ The model was trained using **Teachable Machine** with the following hyperparame
 
 <div align="center">
   <img src="Model_Evaluation/Overall accuracy.png" width="400" alt="Overall Model Accuracy">
-  
-  <h2>⭐ 100% Training Accuracy ⭐</h2>
-  <p><i>Note: Perfect training accuracy suggests potential overfitting (see reflection section)</i></p>
-</div>
 
 ---
 
