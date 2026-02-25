@@ -47,7 +47,7 @@ This laboratory activity involves creating an image classification model that ca
 
 ---
 
-## <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/79ecf889-e97d-456a-867a-d3650539cf74" /> Model Training Details
+## Model Training Details  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/79ecf889-e97d-456a-867a-d3650539cf74" />
 
 The model was trained using **Teachable Machine** with the following hyperparameters:
 
@@ -61,9 +61,10 @@ The model was trained using **Teachable Machine** with the following hyperparame
 
 ---
 
-## <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/7b037469-c5ac-4e44-bfc9-fe197b5dcda2" /> Model Evaluation
+## Model Evaluation  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/7b037469-c5ac-4e44-bfc9-fe197b5dcda2" />
 
-### Confusion Matrix
+### Confusion Matrix <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/cb81b4f2-e78e-407d-91ca-94af5c67832c" />
+
 *Visual representation of model predictions vs. actual classes*
 
 <div align="center">
