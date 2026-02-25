@@ -40,7 +40,7 @@
 
 ---
 
-## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/79ecf889-e97d-456a-867a-d3650539cf74" /> Model Training Details
+## <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/79ecf889-e97d-456a-867a-d3650539cf74" /> Model Training Details
 
 The model was trained using **Teachable Machine** with the following hyperparameters:
 
@@ -54,7 +54,7 @@ The model was trained using **Teachable Machine** with the following hyperparame
 
 ---
 
-## 📊 Model Evaluation
+## <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/1ebd1f46-095e-4745-8641-cafc8fca24b8" />  Model Evaluation
 
 ### Confusion Matrix
 *Visual representation of model predictions vs. actual classes*
