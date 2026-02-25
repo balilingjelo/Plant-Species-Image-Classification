@@ -40,7 +40,7 @@
 
 ---
 
-## ⚙️ Model Training Details
+## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/79ecf889-e97d-456a-867a-d3650539cf74" /> Model Training Details
 
 The model was trained using **Teachable Machine** with the following hyperparameters:
 
