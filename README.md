@@ -85,3 +85,22 @@ The model was trained using **Teachable Machine** with the following hyperparame
 </div>
 
 ---
+
+## 🧪 Model Testing
+
+*Real-world predictions on unseen images*
+
+<div align="center">
+  
+| Test Image | Prediction | Test Image | Prediction |
+|:----------:|:----------:|:----------:|:----------:|
+| <img src="Model_testing/Black_Magic.png" width="200" alt="Black Magic Test"> | **Black Magic** | <img src="Model_testing/Black_Coral.png" width="200" alt="Black Coral Test"> | **Black Coral** |
+| <img src="Model_testing/Green_Velvet.png" width="200" alt="Green Velvet Test"> | **Green Velvet** | <img src="Model_testing/Hilo_Beauty.png" width="200" alt="Hilo Beauty Test"> | **Hilo Beauty** |
+| <img src="Model_testing/Illustris.png" width="200" alt="Illustris Test"> | **Illustris** | <img src="Model_testing/Metallica.png" width="200" alt="Metallica Test"> | **Metallica** |
+| <img src="Model_testing/Mojito.png" width="200" alt="Mojito Test"> | **Mojito** | <img src="Model_testing/Nancy's Revenge.png" width="200" alt="Nancy's Revenge Test"> | **Nancy's Revenge** |
+| <img src="Model_testing/Redemption.png" width="200" alt="Redemption Test"> | **Redemption** | <img src="Model_testing/White_Lava" width="200" alt="White Lava Test"> | **White Lava** |
+
+</div>
+
+---
+
