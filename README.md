@@ -1,8 +1,7 @@
 # Plant Species Image Classification🌿
 
 
-## Fern Varieties Gallery <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6d3089c0-fa2c-4ec7-841b-b57d7aee4feb" />
-
+## Fern Varieties Gallery <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6d3089c0-fa2c-4ec7-841b-b57d7aee4feb" />
 
 <div align="center">
   <i>Click on any image to enlarge • 20 unique varieties showcased</i>
