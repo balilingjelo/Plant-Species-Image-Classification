@@ -130,4 +130,4 @@ The main challenges I encountered during dataset collection and labeling were fi
 >If I were to improve my model, I would add more high-quality and varied images for each plant species so the model can learn better. I would adjust the training parameters or try a more advanced model to improve accuracy, especially for plant species that look very similar.
 ---
 
- [⬆ Back to Top](README.md)
+ [⬆ Back to Top](#Plant-Species-Image-Classification)
