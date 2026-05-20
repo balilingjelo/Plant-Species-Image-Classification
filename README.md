@@ -8,7 +8,7 @@
 This laboratory activity involves creating an image classification model that can identify 20 related plant species using Google Teachable Machine. Students will collect at least 5,000 images, organize them into classes, and train the model by adjusting parameters such as epochs, batch size, and learning rate. After training, they will evaluate the model’s performance using accuracy metrics and confusion matrices, then test it in the Preview section.
 
 ---
-https://colab.research.google.com/drive/1dFLPDTZiVU6aapz2yIstk6_mVmlwKVWn?usp=sharing
+https://colab.research.google.com/drive/1L0m7zpuiaB12x5qYXhBSVAs3DmVVez-a - GOOGLE COLLAB LINK
 ---
 
 ## Fern Varieties Gallery <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6d3089c0-fa2c-4ec7-841b-b57d7aee4feb" />
